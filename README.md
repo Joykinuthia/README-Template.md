@@ -1,23 +1,28 @@
 # Project Title
+Ramen Rating App
 
 Simple overview of use/purpose.
 
 ## Description
 
 An in-depth paragraph about your project and overview of use.
+This is a restaurant rating app whereby you enter the data on the form which when posted enters into the database as a way of rating the restaurant
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* Describe any prerequisites, libraries, OS version, etc., needed before installing the program.
 * ex. Windows 10
 
+used the json server
 ### Installing
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
 
+* Download the system from GitHub, run the code locally on your vs code by installing the json server
+* 
 ### Executing program
 
 * How to run the program
@@ -25,19 +30,19 @@ An in-depth paragraph about your project and overview of use.
 ```
 code blocks for commands
 ```
-
+Start the watch json server and open the HTML file on your browser
 ## Help
 
 Any advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
-
+Ensure to start the json server, and ensure it's only one server running
 ## Authors
 
 Contributors names and contact info
 
-Calebbii 
+Joyrose Kinuthia
 
 
 ## Version History
